@@ -1,2 +1,2 @@
-submake: sub.c
-	gcc -o submake sub.c -I.
+modmake: mod.c
+	gcc -o modmake mod.c -I.
