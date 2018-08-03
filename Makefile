@@ -1,2 +1,2 @@
-modmake: mod.c
-	gcc -o modmake mod.c -I.
+divimake: divi.c
+	gcc -o divimake divi.c -I.
